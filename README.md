@@ -11,3 +11,7 @@ This is a sample repository with a really exciting analysis about people's prefe
     - Data file with 564 participants
 2. sample_analysis.ipynb
     - Analysis notebook with all results and figures
+
+## More learning Resources
+[Git/Github Tutorials](https://www.atlassian.com/git/tutorials)  
+[Git with a clickable user-interface](https://www.gitkraken.com/)
